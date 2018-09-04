@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		84CA82F5213D662100B8245A /* 26.c in Sources */ = {isa = PBXBuildFile; fileRef = 84CA82F4213D662100B8245A /* 26.c */; };
+		84641A2B213ECE8700137252 /* Fibonacci.c in Sources */ = {isa = PBXBuildFile; fileRef = 84641A2A213ECE8700137252 /* Fibonacci.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,8 +23,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		84641A2A213ECE8700137252 /* Fibonacci.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Fibonacci.c; sourceTree = "<group>"; };
 		84CA82F1213D662100B8245A /* algo */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = algo; sourceTree = BUILT_PRODUCTS_DIR; };
-		84CA82F4213D662100B8245A /* 26.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 26.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		84CA82F3213D662100B8245A /* algo */ = {
 			isa = PBXGroup;
 			children = (
-				84CA82F4213D662100B8245A /* 26.c */,
+				84641A2A213ECE8700137252 /* Fibonacci.c */,
 			);
 			path = algo;
 			sourceTree = "<group>";
@@ -118,7 +118,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				84CA82F5213D662100B8245A /* 26.c in Sources */,
+				84641A2B213ECE8700137252 /* Fibonacci.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
